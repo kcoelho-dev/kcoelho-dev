@@ -1,6 +1,6 @@
 
 ## Olá! Eu sou Kelvin Coelho Loiola
-  <img align="right" height="120" alt="Foto-Kelvin" src="https://media-exp1.licdn.com/dms/image/C4D03AQEb333pUFRJDA/profile-displayphoto-shrink_200_200/0/1593697688165?e=1664409600&v=beta&t=dDotCFVNghDlXflcLbifYW9oLZTapKiO6BHkbnaAzjY">
+
 
 - 🔭 Buscando entrar no mercado de Desenvolvimento 
 - 📚 Aprendendo C# e MySQL
